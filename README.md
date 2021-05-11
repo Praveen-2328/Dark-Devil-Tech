@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Dark-Devil-Tech
+- 👋 Hi, I’m Praveen
 - 👀 I’m interested in Hacking,Programming,App Development
 - 🌱 I’m currently learning Hacking,App Development
