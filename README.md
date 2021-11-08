@@ -3,5 +3,5 @@
 </div>
 
 ✔ 👋 Hi, I’m Praveen <br>
-✔ 👀 I’m interested in Hacking,Programming,App Development <br>
-✔ 🌱 I’m currently learning Hacking,App Development <br>
+✔ 👀 I’m interested in Programming,App Development <br>
+✔ 🌱 I’m currently learning App Development <br>
