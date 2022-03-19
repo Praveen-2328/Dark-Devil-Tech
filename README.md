@@ -10,9 +10,11 @@
 ✔ 🌱 I’m currently learning App Development <br>
 
 ## ⚡ Technologies
+
 [![OS](https://img.shields.io/badge/Windows-grey?logo=windows&logoColor=blue)](https://en.wikipedia.org/wiki/Windows)
 [![OS](https://img.shields.io/badge/Linux-grey?logo=linux)](https://en.wikipedia.org/wiki/Linux)
 [![Editor](https://img.shields.io/badge/VSCode-grey?logo=visual-studio-code&logoColor=purple)](https://code.visualstudio.com)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-grey?logo=Android-Studio)
 ![Python](https://img.shields.io/badge/Python-grey?logo=Python)
 ![C](https://img.shields.io/badge/C%20%20C++-grey?logo=C)
 ![Java](https://img.shields.io/badge/Java-grey?logo=Java)
