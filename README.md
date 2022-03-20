@@ -43,4 +43,4 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Don't+leave+until+you+get+it!&font=Fira%20Code&center=true&width=400&height=30">
 </div>
 
-![](https://komarev.com/ghpvc/?username=Dark-Devil-Tech&label=Profile+Views)
+![](https://komarev.com/ghpvc/?username=Dark-Devil-Tech&label=Views)
