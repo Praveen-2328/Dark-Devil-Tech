@@ -27,6 +27,7 @@
   ![Java](https://img.shields.io/badge/Java-grey?logo=Java)
   ![MySQL](https://img.shields.io/badge/MySQL-grey?logo=Mysql)
   ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-grey?logo=Google-Cloud)
+  ![Google Colab](https://img.shields.io/badge/Google%20Colab-grey?logo=Google-Colab)
   ![Git](https://img.shields.io/badge/Git-grey?logo=Git)
   ![GitHub](https://img.shields.io/badge/GitHub-grey?logo=Github)<center>
 
