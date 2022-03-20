@@ -4,10 +4,11 @@
 <div align="center">
   <h1> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/Dark-Devil-Tech/Dark-Devil-Tech/blob/master/gifs/Hi.gif" width="30px"></h1>
 </div>
-
+<h3>
   ✔ 👋 Hi, I’m Praveen <br>
   ✔ 👀 I’m interested in Robotics,Programming,App Development <br>
   ✔ 🌱 I’m currently learning App Development <br>
+</h3>
 
 ## Languages, Tools, and Skills 🛠
 ![Windows](https://img.shields.io/badge/Windows-grey?logo=Windows&logoColor=blue)
