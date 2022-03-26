@@ -15,10 +15,17 @@
 ![Linux](https://img.shields.io/badge/Linux-grey?logo=linux)
 ![Editor](https://img.shields.io/badge/VSCode-grey?logo=Visual-Studio-Code&logoColor=purple)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-grey?logo=Android-Studio)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-grey?&logo=Raspberry-Pi&logoColor=red)
-![Arduino](https://img.shields.io/badge/Arduino-grey?logo=Arduino)
+![Git](https://img.shields.io/badge/Git-grey?logo=Git)
+![GitHub](https://img.shields.io/badge/GitHub-grey?logo=Github)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-grey?logo=Google-Cloud)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-grey?logo=Google-Colab)
+![Fire Base](https://img.shields.io/badge/Firebase-grey?logo=Firebase)
 ![Figma](https://img.shields.io/badge/Figma-grey?logo=Figma)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-grey?logo=Adobe-XD)
+
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-grey?&logo=Raspberry-Pi&logoColor=red)
+![Arduino](https://img.shields.io/badge/Arduino-grey?logo=Arduino)
+
 ![MySQL](https://img.shields.io/badge/MySQL-grey?logo=Mysql)
 ![OpenCV](https://img.shields.io/badge/OpenCV-grey?logo=OpenCV)
 ![Tensorflow](https://img.shields.io/badge/Tensorflow-grey?logo=Tensorflow)
@@ -26,10 +33,8 @@
 ![Python](https://img.shields.io/badge/Python-grey?logo=Python)
 ![C C++](https://img.shields.io/badge/C%20%20C++-grey?logo=C)
 ![Java](https://img.shields.io/badge/Java-grey?logo=Java)
-![Git](https://img.shields.io/badge/Git-grey?logo=Git)
-![GitHub](https://img.shields.io/badge/GitHub-grey?logo=Github)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-grey?logo=Google-Cloud)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-grey?logo=Google-Colab)
+
+
 
 ## GitHub Stats 📈
 <div align="center">
