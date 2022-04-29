@@ -21,7 +21,6 @@
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-grey?logo=Google-Colab)
 ![Fire Base](https://img.shields.io/badge/Firebase-grey?logo=Firebase)
 ![Figma](https://img.shields.io/badge/Figma-grey?logo=Figma)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-grey?logo=Adobe-XD)
 
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-grey?&logo=Raspberry-Pi&logoColor=red)
 ![Arduino](https://img.shields.io/badge/Arduino-grey?logo=Arduino)
@@ -31,8 +30,7 @@
 ![Tensorflow](https://img.shields.io/badge/Tensorflow-grey?logo=Tensorflow)
 ![CNN](https://img.shields.io/badge/CNN-grey?logo=CNN)
 ![Python](https://img.shields.io/badge/Python-grey?logo=Python)
-![C C++](https://img.shields.io/badge/C%20%20C++-grey?logo=C)
-![Java](https://img.shields.io/badge/Java-grey?logo=Java)
+
 
 
 
