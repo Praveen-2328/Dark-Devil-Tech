@@ -14,18 +14,12 @@
 ![Windows](https://img.shields.io/badge/Windows-grey?logo=Windows&logoColor=blue)
 ![Linux](https://img.shields.io/badge/Linux-grey?logo=linux)
 ![Editor](https://img.shields.io/badge/VSCode-grey?logo=Visual-Studio-Code&logoColor=purple)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-grey?logo=Android-Studio)
 ![Git](https://img.shields.io/badge/Git-grey?logo=Git)
 ![GitHub](https://img.shields.io/badge/GitHub-grey?logo=Github)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-grey?logo=Google-Cloud)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-grey?logo=Google-Colab)
-![Fire Base](https://img.shields.io/badge/Firebase-grey?logo=Firebase)
 ![Figma](https://img.shields.io/badge/Figma-grey?logo=Figma)
-
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-grey?&logo=Raspberry-Pi&logoColor=red)
 ![Arduino](https://img.shields.io/badge/Arduino-grey?logo=Arduino)
-
-![MySQL](https://img.shields.io/badge/MySQL-grey?logo=Mysql)
 ![OpenCV](https://img.shields.io/badge/OpenCV-grey?logo=OpenCV)
 ![Tensorflow](https://img.shields.io/badge/Tensorflow-grey?logo=Tensorflow)
 ![CNN](https://img.shields.io/badge/CNN-grey?logo=CNN)
