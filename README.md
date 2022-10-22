@@ -32,7 +32,6 @@
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Praveen-2328&theme=dark&show_icons=true" alt="Praveen's GitHub Stats"/>
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen-2328&theme=dark" alt="Praveen's Language Stats"/>
 </div>
 
 ## 🤝 Reach Me
